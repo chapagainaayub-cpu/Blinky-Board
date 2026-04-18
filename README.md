@@ -1,2 +1,4 @@
 # Blinky-Board
-I made a blinky board
+
+The **Blinky Board** is a simple electronics project that uses 10 LEDs and basic components to create a sequential blinking pattern, helping demonstrate fundamental concepts of circuit design and signal flow. The schematic diagram serves as the blueprint, showing how each LED is connected through resistors to a control unit and power source, ensuring correct current flow and functionality. This schematic is then translated into a PCB layout, where components are carefully placed and connected using copper traces. After fabrication, the board is assembled by soldering all components, followed by testing to verify the blinking sequence. Overall, the project provides hands-on experience with schematics, PCB design, and basic hardware assembly in a clear and beginner-friendly way.
+
